@@ -1,5 +1,7 @@
 # Unit 5 - Financial Planning
 
+Please Note: I have gitignored my api keys via envdot. Please allow for your own api key when running script.
+
 ![Financial Planner](Images/financial-planner.png)
 
 ## Background
